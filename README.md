@@ -1,4 +1,6 @@
 Am definit clasele "Produs", "Comanda", "Livrare". 
+
+
 		->Un obiect din clasa "Produs" are urmatoarele campuri :
 			-denumire(un pointer de tip char ce retine denumirea produsului);
 			-pret(retine pretul produsului);
