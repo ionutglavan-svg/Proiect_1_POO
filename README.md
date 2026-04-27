@@ -22,4 +22,4 @@ Am definit clasele "Produs", "Comanda", "Livrare".
 			-idCmd(retine ID - ul comenzii ce coincide cu ID - ul livrarii);
 			-livrat(initializat implicit cu false, indica daca livrarea a fost efectuata sau nu);
 			-urm(un pointer spre urmatorul obiect de tip "Livrare");
-# 									!!!strupr() trebuie inlocuit cu _strupr() pentru CodeBlocks!!!
+# 									!!!_strupr() trebuie inlocuit cu strupr() pentru CodeBlocks!!!
